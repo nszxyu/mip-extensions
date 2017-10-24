@@ -1,0 +1,14 @@
+{
+    "name": "mip-nszxyu-novel",
+    "version": "1.0.0",
+    "description": "集成小说网js方法",
+    "contributors": [
+        {
+            "name": "nszxyu",
+            "email": "nszxyu@163.com"
+        }
+    ],
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}
